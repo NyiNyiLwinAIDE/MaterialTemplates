@@ -1,1 +1,0 @@
-Material design templates to be used on AIDE.
